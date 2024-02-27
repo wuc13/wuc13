@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Caroline!
-- 🖥️ I’m interested in UX/UI design and just web design in general
+- 🖥️ I’m interested in UI/UX and web design
 - 📜 Some of my hobbies include reading, gaming, and animating (plus a few others I'll pick up here and there throughout the year)
-- 🌱 I’m currently in my 2nd year of uni studying cognitive science at Rensselaer Polytechnic Institute
-- 💞️ I’m looking to collaborate on more of the front end portion of a site
+- 🌱 I'm currently pursueing my associates in psychology 
 - 📫 How to reach me:
      - Linkedin: https://www.linkedin.com/in/carolinewu14/
 
